@@ -1,4 +1,4 @@
-# Hi, I’m Ahmad 👋👨‍💻
+# Hi, I’m Ahmad Abduljeleel 👋👨‍💻
 
 I'm a developer who loves expressing myself through building and designing software. I take pride in being a developer and enjoy turning ideas into clean, usable interfaces. Right now I'm learning React and expanding my backend and full‑stack skills with MongoDB, Express.js, Java, and Next.js.
 
